@@ -1,1 +1,3 @@
+A melhor proposta seria ○ **Toolkit de Explicabilidade (XAI):** Implementar uma camada de código que explica por que o candidato foi rejeitado, aumentando a transparência, mas expondo a lógica interna do produto. 
 
+Por que essa seria a melhor opção? De acordo com a Lei Jurídica1 "Risco Jurídico (LGPD): No Brasil, o Art. 20 da LGPD garante ao cidadão o direito de solicitar a revisão de decisões tomadas unicamente por tratamento automatizado. Lançar o software "como está" pode gerar multas pesadas e processos judiciais em massa." É de extrema importância realizar o devido revisamento, e ordem do progresso, analisando os possiveis erros. Implementar uma camada de código, seria o mais "rápido" comparada com as outras opções e a mais eficaz. 
