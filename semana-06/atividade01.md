@@ -27,7 +27,6 @@ Propomos o desenvolvimento de um aplicativo focado em automação e experiência
 Conversamos e identificamos os seguintes Requisitos Funcionais **(RF)** e Não Funcionais **(RNF)**:
 
 - **Requisitos Funcionais:**
-- 
 
 **RF1 -** Exibir promoções e anúncios 
 
@@ -46,8 +45,7 @@ Conversamos e identificamos os seguintes Requisitos Funcionais **(RF)** e Não F
 **RF8 -** Cadastrar promoções e anúncios
 
 - **Requisitos Não-Funcionais:**
-- 
-
+  
 **RNF1 -** Interface fácil, intuitivo e utilizável por todos, independente da idade
 
 **RNF2 -** O sistema deve manter em segurança os dados fornecidos
